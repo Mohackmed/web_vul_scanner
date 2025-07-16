@@ -11,3 +11,43 @@
 *DURATION*: 4 WEEKS
 
 *MENTOR*: NEELA SANTOSH
+
+# 🔍 Web Vulnerability Scanner (Task 2 - CODTECH Internship)
+
+A Python-based tool to **identify common vulnerabilities** in web applications, such as:
+
+- 🛑 **SQL Injection**
+- ⚠️ **Cross-Site Scripting (XSS)**
+
+---
+
+## 🚀 Features
+
+- Crawls web pages to find forms and input fields
+- Automatically injects known **SQLi** and **XSS** payloads
+- Reports vulnerable URLs and forms
+- Simple command-line interface
+
+---
+
+## 🛠 Technologies Used
+
+- `requests` – for HTTP interactions
+- `BeautifulSoup4` – for HTML parsing
+- Standard Python libraries
+
+---
+
+## 📦 Folder Structure
+
+web_vuln_scanner/
+├── scanner.py
+
+---
+
+## ✅ Requirements
+
+Install required libraries:
+
+```bash
+pip install requests beautifulsoup4
