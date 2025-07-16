@@ -1,1 +1,1 @@
-# web_vul_scanner
+# Web_application_vulnerability_scanner
