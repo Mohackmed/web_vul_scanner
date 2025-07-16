@@ -45,9 +45,6 @@ web_vuln_scanner/
 
 ---
 
-## ✅ Requirements
+## Output
 
-Install required libraries:
-
-```bash
-pip install requests beautifulsoup4
+<img width="1645" height="1002" alt="Web vul scanner" src="https://github.com/user-attachments/assets/765d21b1-cccc-4321-bb32-4c20c7739180" />
