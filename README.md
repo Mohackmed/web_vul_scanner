@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-# 🔍 Web Vulnerability Scanner (Task 2 - CODTECH Internship)
+# 🔍 Web Vulnerability Scanner
 
 A Python-based tool to **identify common vulnerabilities** in web applications, such as:
 
